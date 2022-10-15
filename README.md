@@ -1,2 +1,2 @@
-# BoredApi_Test_Java
-Bored API in Java
+# API_Java_RestAssured_Jackson
+API testing framework: Java + REST Assured, Jackson for payload building

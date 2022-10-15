@@ -1,0 +1,7 @@
+2022-10-14 22:00:051 INFO - Current environment: https://www.boredapi.com/api
+2022-10-14 22:00:051 INFO - Get activity by type aand by quantity of participants
+2022-10-14 22:00:051 INFO - Endpoint: https://www.boredapi.com/api/activity
+2022-10-14 22:00:053 INFO - Activity for 4 participant(s) and type recreational retrieved successfully
+2022-10-14 22:00:053 INFO - Response body: 
+{"activity":"Go see a Broadway production","type":"recreational","participants":4,"price":0.8,"link":"","key":"4448913","accessibility":0.3}
+2022-10-14 22:00:053 INFO - Activity for you is Go see a Broadway production
